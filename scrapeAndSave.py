@@ -1,6 +1,5 @@
 import requests
 import bs4
-from GetQou import *
 from tqdm import tqdm
 import firebase_admin
 from firebase_admin import credentials
